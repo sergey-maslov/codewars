@@ -1,0 +1,3 @@
+.outer div:nth-child(2) {
+    background-color: green;
+    }
